@@ -3,32 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MyGameList</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
+    <title>MyGameList Sign Up Page</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<h1>MyGameList</h1>
+    <div class="container">
+        <header>
+            <h1>MyGameList</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Jogos</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="ranking.html">Ranking</a></li>
+                   
+                </ul>
+            </nav>
+            <div class="auth-buttons">
+                <button class="login">Login</button>
+                <button class="signup">Sign Up</button>
+            </div>
+        </header>
 
+        <main>
+            <div class="signup-prompt">
+                <h2>Never forget what you've seen. Save what you want to play next.</h2>
+                <h3>Start tracking your games today.</h3>
+            </div>
 
-<header>
-    <nav>
-        <ul>
-            <li><a href="index.html">Início</a></li>
-            <li><a href="about.html">Sobre</a></li>
-            <li><a href="ranking.html">Ranking</a></li>
-            <li><a href="jogos.html">Jogos</a></li>
-            <li><a href="dlcs.html">DLCs</a></li>
-        </ul>
-    </nav>
+        
 
-    <h1>Alguma frase qualquer</h1>
-</header>
-
-
-    
-
-    
-    
+            <div class="game-samples">
+                <div class="game-card">
+                    <img src="sekiro.jpg" alt="Sekiro: Shadows Die Twice">
+                    <p>· Scored 9</p>
+                </div>
+                <div class="game-card">
+                    <img src="elden ring.jpg" alt="Elden Ring">
+                    <p> · Scored 9</p>
+                </div>
+                <div class="game-card">
+                    <img src="r6.jpg" alt="Tom Clancy's Rainbow Six Siege">
+                    <p> · Scored</p>
+                </div>
+            </div>
+        </main>
+    </div>
 </body>
 </html>

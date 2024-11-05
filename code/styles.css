@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1b1b1b;
+    color: white;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.auth-buttons button {
+    background-color: #3b5998;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.auth-buttons .login {
+    margin-right: 10px;
+}
+
+main {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.signup-prompt h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.signup-prompt h3 {
+    font-size: 20px;
+    color: #cccccc;
+}
+
+.social-signup {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.social-button {
+    background-color: #3b5998;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.game-samples {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.game-card {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.game-card img {
+    max-width: 100px;
+    border-radius: 10px;
+}
+
+.game-card p {
+    margin-top: 10px;
+    color: #cccccc;
+}
