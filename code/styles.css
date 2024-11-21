@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #1b1b1b;
+    background-color: #110808;
     color: white;
 }
 
@@ -10,10 +10,7 @@ body {
     max-width: 1100px;
     margin: 0 auto;
     padding: 30px;
-   
-    
-
-    
+       
 }
 
 header {
@@ -145,7 +142,7 @@ main {
 .divh2 {
     position: absolute;
     top: 410px;
-    left: 26%;
+    left: 27%;
     font-size: 25px;
     background-color: #9b2626;
     border-radius: 10px;
