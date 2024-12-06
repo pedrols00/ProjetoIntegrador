@@ -135,8 +135,8 @@ main {
 .img-about {
     position: absolute;
     padding: 100px;
-    left: 50%;
-    top: 30%;
+    left: 60%;
+    top: 40%;
 }
 
 .divh2 {
@@ -244,4 +244,11 @@ button {
 
 button:hover {
     background-color: #722020;
+}
+
+main img {
+    width: 300px;
+    height: 300px;
+    
+    
 }
