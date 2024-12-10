@@ -47,24 +47,3 @@ function renderAnimeList() {
 
 document.addEventListener('DOMContentLoaded', renderAnimeList);
 
-
-
-//function renderAnimeList() {
-    //const animeListContainer = document.getElementById('anime-list');
-    //animeList.forEach(anime => {
-        //const row = document.createElement('div');
-       // row.classList.add('table-row');
-
-        //row.innerHTML = `
-            //<div class="column rank">${anime.rank}</div>
-            //<div class="column image"><img src="${anime.image}" alt="${anime.title}"></div>
-            //<div class="column title">${anime.title}</div>
-            //<div class="column score">${anime.score.toFixed(2)}</div>
-            //<div class="column status"><button>${anime.status}</button></div>
-        //`;
-        //animeListContainer.appendChild(row);
-    //});
-//}
-
-//document.addEventListener('DOMContentLoaded', renderAnimeList);
-
