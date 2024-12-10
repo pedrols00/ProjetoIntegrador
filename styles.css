@@ -129,7 +129,7 @@ main {
 .About1 {
     
     padding-left: 20%;
-    padding-right: 20%;
+    padding-right: 23%;
 }
 
 .About1 h2{
@@ -143,6 +143,7 @@ main {
 
 .About1 h3{
     margin-top: 8%;
+    
 }
 
 .img-about {
@@ -194,7 +195,7 @@ main {
 
 .why3 {
     position: absolute;
-    top: 1200px;
+    top: 1250px;
     padding-bottom: 10%;
     padding-left: 20%;
     padding-right: 20%;
@@ -290,7 +291,8 @@ main img {
     top: 1450px;
     align-items: center;
     justify-content: center;
-    left: 26%;   
+    left: 30%;   
+    text-align: center;
 }
 
 .discover h1 {
