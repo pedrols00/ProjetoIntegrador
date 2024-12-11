@@ -51,6 +51,11 @@ main {
     font-weight: bold;
 }
 
+
+.signup-prompt {
+    padding-bottom: 10px;
+}
+
 .jogos {
     padding-bottom: 200px;
 }
@@ -154,3 +159,5 @@ main img {
     left: 29%;
     text-align: center;
 }
+
+
