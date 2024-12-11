@@ -4,7 +4,8 @@ body {
     padding: 0;
     background-color: #110808;
     color: white;
-    font-family: Bradley Hand, cursive;
+    font-family: Andale Mono, monospace;
+    font-weight: bold;
 }
 
 .container {
@@ -275,8 +276,8 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    font-family: Bradley Hand, cursive
-
+    font-family: Andale Mono, monospace;
+    font-weight: bold;
 }
 
 button:hover {
