@@ -26,8 +26,8 @@ O site também fornece avaliações reais de pessoas que jogaram o jogo na pági
 Conclusão: 
 
 O site MyGameList é uma ferramenta essencial para quem quer se informar mais sobre os jogos, ao fornecer informações sobre os mesmos.
-Nossa principal preocupação é com a veracidade das informações do site, não adimitimos informações e/ou avaliações falsas sobre os jogos à disposição.
-Para finalizar, vale ressaltar que estamos abertos a críticas, comentários, opiniões e ideias. Basta preecher nosso formulário de contato, que está disponível no proprio site dentro da página de qualquer jogo.
+Nossa principal preocupação é com a veracidade das informações do site, não admitimos informações e/ou avaliações falsas sobre os jogos à disposição.
+Para finalizar, vale ressaltar que estamos abertos a críticas, comentários, opiniões e ideias. Basta preencher nosso formulário de contato, que está disponível no proprio site dentro da página de qualquer jogo.
 
 
 
